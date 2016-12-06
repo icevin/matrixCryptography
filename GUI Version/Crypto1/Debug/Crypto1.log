@@ -1,0 +1,15 @@
+﻿  Crypto1.cpp
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\inputoutput.h(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\inputoutput.h(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\inputoutput.h(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\inputoutput.h(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\inputoutput.h(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\matrixmath.h(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\matrixmath.h(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\matrixmath.h(98): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\matrixmath.h(83): warning C4101: 'disableMatrix': unreferenced local variable
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\filetransfer.h(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\crypto1.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\crypto1.cpp(340): warning C4101: 'hwnd': unreferenced local variable
+c:\users\kevin\desktop\presentation\cryptography gui - copy\crypto1\crypto1.cpp(341): warning C4101: 'hbrush': unreferenced local variable
+  Crypto1.vcxproj -> C:\Users\Kevin\Desktop\Presentation\Cryptography GUI - Copy\Debug\Crypto1.exe
